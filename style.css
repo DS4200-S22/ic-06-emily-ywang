@@ -1,0 +1,15 @@
+body {
+    font-family: Arial;
+}
+
+button {
+    margin: 10px;
+    display: inline-block;
+}
+
+/* .shape {
+	align-self: center;
+	display: inline-block;
+}
+
+.my-circle:button2Clicked { fill: 'green';} */
